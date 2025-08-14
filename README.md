@@ -1,34 +1,9 @@
-<!-- Banner personalizado -->
-
-<h1 align="center">👋 Olá, eu sou o Diego Marcelo</h1>
-
-<p align="center">
-  🎓 Estudante de Ciência da Computação | 💻 Aspirante a Full Stack Developer  
-</p>
-
----
-
-## 🚀 Sobre mim
-Sou estudante de Ciência da Computação na Universidade Católica de Brasília, apaixonado por tecnologia e buscando conhecimento tanto no back-end quanto no front-end. No momento, estou aprimorando meus conhecimentos em Java, C, CSS e HTML, ciente de que existe um universo vasto para explorar e desenvolver minhas habilidades dentro da área de tecnologia — e estou pronto para isso. Valorizo o aprendizado contínuo e estou determinado a evoluir constantemente, com foco em me tornar um profissional completo e capaz de criar soluções sólidas, inovadoras e impactantes.
-
----
-
-## 🛠️ Tecnologias que estou aprendendo
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,html,css" />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
----
+###
 
-## 📊 Status do GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diegoomarcelo&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoomarcelo&layout=compact&theme=tokyonight" height="165">
-</div>
-
----
-
-## 🌎 Onde me encontrar
 <p align="center">
   <a href="https://br.linkedin.com/in/diegomarcelo" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
@@ -44,12 +19,34 @@ Sou estudante de Ciência da Computação na Universidade Católica de Brasília
   </a>
 </p>
 
+###
+
+<h1 align="center">👋 Olá, eu sou o Diego Marcelo</h1>
+
+<p align="center">
+  🎓 Estudante de Ciência da Computação | 💻 Aspirante a Full Stack Developer  
+</p>
+
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+## 🚀 Sobre mim
+Sou estudante de Ciência da Computação na Universidade Católica de Brasília, apaixonado por tecnologia e buscando conhecimento tanto no back-end quanto no front-end. No momento, estou aprimorando meus conhecimentos em Java, C, CSS e HTML, ciente de que existe um universo vasto para explorar e desenvolver minhas habilidades dentro da área de tecnologia — e estou pronto para isso. Valorizo o aprendizado contínuo e estou determinado a evoluir constantemente, com foco em me tornar um profissional completo e capaz de criar soluções sólidas, inovadoras e impactantes.
+
+---
+
+## 🛠️ Linguagens
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,html,css" />
+</div>
+
+---
+
+## 📊 Status do GitHub
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=diegoomarcelo&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoomarcelo&layout=compact&theme=tokyonight" height="165">
+</div>
+
+---
 
 > 💻 "Cada bug corrigido é um nível desbloqueado no jogo da programação."
