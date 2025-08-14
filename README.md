@@ -14,9 +14,6 @@
   <a href="mailto:diegoomarcelo@outlook.com.br">
     <img src="https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
-  <a href="tel:+5561981467722">
-    <img src="https://img.shields.io/badge/-Telefone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
 </p>
 
 ###
