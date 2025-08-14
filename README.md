@@ -9,10 +9,7 @@
 ---
 
 ## 🚀 Sobre mim
-- 📚 Atualmente estudando *C, Java, HTML, CSS*
-- 💡 Interesse tanto em *Front-end* quanto em *Back-end*
-- 🌱 Sempre explorando novas linguagens e tecnologias
-- 🤝 Aberto a colaborações e projetos acadêmicos
+Sou estudante de Ciência da Computação na Universidade Católica de Brasília, apaixonado por tecnologia e atuando tanto no back-end quanto no front-end. No momento, estou aprimorando meus conhecimentos em Java, C, CSS e HTML, ciente de que existe um universo vasto para explorar e desenvolver minhas habilidades dentro da área de tecnologia — e estou pronto para isso. Valorizo o aprendizado contínuo e estou determinado a evoluir constantemente, com foco em me tornar um profissional completo e capaz de criar soluções sólidas, inovadoras e impactantes.
 
 ---
 
@@ -46,13 +43,6 @@
     <img src="https://img.shields.io/badge/-Telefone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
-
----
-
-## 💡 Curiosidades
-- ☕ Cafeína é meu combustível
-- 🎯 Meta: criar meus primeiros projetos *Full Stack* em 2025
-- 🔍 Buscando sempre aprender e melhorar a cada commit
 
 ---
 
