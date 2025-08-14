@@ -1,7 +1,4 @@
 <!-- Banner personalizado -->
-<p align="center">
-  <img src="https://i.imgur.com/Rn7z8FJ.png" alt="Banner Diego Marcelo" width="100%">
-</p>
 
 <h1 align="center">👋 Olá, eu sou o Diego Marcelo</h1>
 
