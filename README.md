@@ -12,7 +12,7 @@
 ---
 
 ## 🚀 Sobre mim
-- 📚 Atualmente estudando *C, Java, HTML, CSS e GitHub*
+- 📚 Atualmente estudando *C, Java, HTML, CSS*
 - 💡 Interesse tanto em *Front-end* quanto em *Back-end*
 - 🌱 Sempre explorando novas linguagens e tecnologias
 - 🤝 Aberto a colaborações e projetos acadêmicos
@@ -21,7 +21,7 @@
 
 ## 🛠️ Tecnologias que estou aprendendo
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,html,css,git,github" />
+  <img src="https://skillicons.dev/icons?i=c,java,html,css" />
 </div>
 
 ---
