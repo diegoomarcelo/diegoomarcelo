@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">👋 Olá, eu sou o Diego Marcelo</h1>
+<h1 align="center">👋 Olá, eu sou o Diego Marcelo.</h1>
 
 <p align="center">
   🎓 Estudante de Ciência da Computação | 💻 Aspirante a Full Stack Developer  
