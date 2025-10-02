@@ -11,7 +11,7 @@
   <a href="https://instagram.com/azzul_" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
-  <a href="mailto:diegoomarcelo@outlook.com.br">
+  <a href="mailto:diegoomarcelo@gmail">
     <img src="https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
 </p>
