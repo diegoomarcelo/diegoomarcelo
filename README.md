@@ -26,19 +26,18 @@
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 Sou estudante de Ciência da Computação na Universidade Católica de Brasília, apaixonado por tecnologia e buscando conhecimento tanto no back-end quanto no front-end. No momento, estou aprimorando meus conhecimentos em Java, C, CSS e HTML, ciente de que existe um universo vasto para explorar e desenvolver minhas habilidades dentro da área de tecnologia — e estou pronto para isso. Valorizo o aprendizado contínuo e estou determinado a evoluir constantemente, com foco em me tornar um profissional completo e capaz de criar soluções sólidas, inovadoras e impactantes.
 
 ---
 
-## 🛠️ Linguagens
+## Linguagens
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,java,html,css" />
 </div>
 
 ---
 
-## 📊 Status do GitHub
 <div align="center">
  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnprZGg0d2cxNWxrOG1mZjNhbDB6Z24xZ3AwMGo3YnB4d2J0amlpbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d9QiBcfzg64Io/giphy.gif"/>
 </div>
