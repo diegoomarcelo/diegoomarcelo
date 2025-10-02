@@ -40,7 +40,7 @@ Sou estudante de Ciência da Computação na Universidade Católica de Brasília
 
 ## 📊 Status do GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diegoomarcelo&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://wdev2021.github.io/Pac-man/" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoomarcelo&layout=compact&theme=tokyonight" height="165">
 </div>
 
