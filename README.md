@@ -27,7 +27,7 @@
 ---
 
 ## Sobre mim
-Sou estudante de Ciência da Computação na Universidade Católica de Brasília, apaixonado por tecnologia e buscando conhecimento tanto no back-end quanto no front-end. No momento, estou aprimorando meus conhecimentos em Java, C, CSS e HTML, ciente de que existe um universo vasto para explorar e desenvolver minhas habilidades dentro da área de tecnologia — e estou pronto para isso. Valorizo o aprendizado contínuo e estou determinado a evoluir constantemente, com foco em me tornar um profissional completo e capaz de criar soluções sólidas, inovadoras e impactantes.
+Sou estudante de Ciência da Computação na Universidade Católica de Brasília, apaixonado por tecnologia e buscando conhecimento tanto no back-end quanto no front-end. No momento, estou aprimorando meus conhecimentos, ciente de que existe um universo vasto para explorar e desenvolver minhas habilidades dentro da área de tecnologia — e estou pronto para isso. Valorizo o aprendizado contínuo e estou determinado a evoluir constantemente, com foco em me tornar um profissional completo e capaz de criar soluções sólidas, inovadoras e impactantes.
 
 ---
 
