@@ -44,14 +44,6 @@ Sou estudante de Ciência da Computação na Universidade Católica de Brasília
 
 </div>
 
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegoomarcelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=diegoomarcelo&theme=dracula"/>
-</div>
 
 ---
 
