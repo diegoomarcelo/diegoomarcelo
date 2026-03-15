@@ -26,7 +26,7 @@
 
 ### 🧠 Sobre mim
 
-Sou estudante de Ciência da Computação na Universidade Católica de Brasília, apaixonado por tecnologia e buscando conhecimento tanto no back-end quanto no front-end. No momento, estou aprimorando meus conhecimentos, ciente de que existe um universo vasto para explorar e desenvolver minhas habilidades dentro da área de tecnologia — e estou pronto para isso. Valorizo o aprendizado contínuo e estou determinado a evoluir constantemente, com foco em me tornar um profissional completo e capaz de criar soluções sólidas, inovadoras e impactantes.
+Estudante de Ciência da Computação com foco em Desenvolvimento e Ciência de Dados. Possuo experiência prática no desenvolvimento de aplicações Java com POO e MySQL, além de tecnologias web e automação com Python. Valorizo o aprendizado contínuo e estou determinado a evoluir constantemente, com foco em me tornar um profissional completo e capaz de criar soluções sólidas, inovadoras e impactantes.
 
 ---
 
