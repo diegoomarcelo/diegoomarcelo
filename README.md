@@ -20,7 +20,7 @@
 ---
 
 ## Sobre mim
-<h1 align="center">Olá, eu sou o Diego Marcelo! </h1>
+<h1 align="center">Olá, eu sou o Diego Marcelo. </h1>
 
 Desenvolvedor Full Stack e entusiasta de dados aprendendo em um ambiente de
 produção real. Atualmente, na Residência Tecnológica UCB, atuo na Globo Brasília
