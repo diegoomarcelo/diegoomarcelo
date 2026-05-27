@@ -17,44 +17,67 @@
   </a>
 </p>
 
-<h1 align="center">👋 Olá, eu sou o Diego Marcelo.</h1>
-<p align="center">
-🎓 Estudante de Ciência da Computação | 💻 Aspirante a Full Stack Developer  
-</p>
+---
+
+## Sobre mim
+<h1 align="center">Olá, eu sou o Diego Marcelo! </h1>
+
+Desenvolvedor Full Stack e entusiasta de dados com experiência em ambiente de
+produção real. Atualmente, na Residência Tecnológica UCB, atuo na Globo Brasília
+desenvolvendo solução de sistema de automação com IA e reconhecimento de voz
+(Vosk), processamento de áudio em tempo real e interface responsiva com WebSockets.
+Stack principal: Python, JavaScript, React, Node,js e SQL. Experiência em automação de
+processos, análise de dados com Pandas e liderança técnica de equipes. Projeto de saúde
+digital liderado por mim conquistou 3º lugar entre 33 equipes em competição com banca
+formada por órgãos do governo federal. Cursando Ciência da Computação na UCB
+(previsão 2028).
+
+
+> **Objetivo:** Ingressar no mercado de tecnologia por meio de um **estágio** em um ambiente colaborativo, onde eu possa aprender com a equipe, crescer como profissional e contribuir com soluções que gerem **impacto real na vida das pessoas** — usando a tecnologia como ferramenta.
 
 ---
 
-### 🧠 Sobre mim
+## Tecnologias & Habilidades
 
-Estudante de Ciência da Computação com foco em Desenvolvimento e Ciência de Dados. Possuo experiência prática no desenvolvimento de aplicações Java com POO e MySQL, além de tecnologias web e automação com Python. Valorizo o aprendizado contínuo e estou determinado a evoluir constantemente, com foco em me tornar um profissional completo e capaz de criar soluções sólidas, inovadoras e impactantes.
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### Dados & Automação
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Ferramentas & Metodologias
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 ---
 
-### ⚙️ Habilidades
+## Projetos em Destaque
 
-<div align="center">
+### Automação de Cadastro de Produtos
+Este projeto consiste em um script de RPA (Robotic Process Automation) desenvolvido em Python para automatizar o preenchimento de formulários de cadastro de produtos em um sistema web.
+`Python` `PyAutoGUI`   
+[Ver projeto →](https://github.com/diegoomarcelo/automacaodecadastro)
 
-#### 💡 Linguagens  
-<img src="https://skillicons.dev/icons?i=c,java,html,css,python,javascript" />
-
-#### 🛠️ Ferramentas  
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" height="48" title="NetBeans"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="48" title="Dev-C++"/>
-
-</div>
-
+### Sistema de Cadastro de Alunos
+Projeto de sistema de cadastro desenvolvido para aplicar conceitos de Programação Orientada a Objetos (POO) e arquitetura de software. O sistema foi organizado seguindo o padrão CMV (Controle, Modelo e Visão).
+`Java` `SQL` `DAO`  
+[Ver projeto →](https://github.com/diegoomarcelo/Sistema_De_Cadastro)
 
 ---
-
-
-
-<div align="center">
-  <img height="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnprZGg0d2cxNWxrOG1mZjNhbDB6Z24xZ3AwMGo3YnB4d2J0amlpbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d9QiBcfzg64Io/giphy.gif"/>
-</div>
-
----
-
-💻 *"Cada bug corrigido é um nível desbloqueado no jogo da programação."*
-
 
