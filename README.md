@@ -69,7 +69,7 @@ formada por órgãos do governo federal. Cursando Ciência da Computação na UC
 
 ## Projetos em Destaque
 
-### Automação de Cadastro de Produtos
+### Autamação de Cadastro de Produtos
 Este projeto consiste em um script de RPA (Robotic Process Automation) desenvolvido em Python para automatizar o preenchimento de formulários de cadastro de produtos em um sistema web.
 `Python` `PyAutoGUI`   
 [Ver projeto →](https://github.com/diegoomarcelo/automacaodecadastro)
