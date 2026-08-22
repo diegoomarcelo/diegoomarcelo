@@ -67,17 +67,3 @@ formada por órgãos do governo federal. Cursando Ciência da Computação na UC
 
 ---
 
-## Projetos em Destaque
-
-### Autamação de Cadastro de Produtos
-Este projeto consiste em um script de RPA (Robotic Process Automation) desenvolvido em Python para automatizar o preenchimento de formulários de cadastro de produtos em um sistema web.
-`Python` `PyAutoGUI`   
-[Ver projeto →](https://github.com/diegoomarcelo/automacaodecadastro)
-
-### Sistema de Cadastro de Alunos
-Projeto de sistema de cadastro desenvolvido para aplicar conceitos de Programação Orientada a Objetos (POO) e arquitetura de software. O sistema foi organizado seguindo o padrão CMV (Controle, Modelo e Visão).
-`Java` `SQL` `DAO`  
-[Ver projeto →](https://github.com/diegoomarcelo/Sistema_De_Cadastro)
-
----
-
