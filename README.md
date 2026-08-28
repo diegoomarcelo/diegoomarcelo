@@ -19,6 +19,7 @@
 ## Sobre mim
 
 - Ciência da Computação (UCB) — 4º semestre
+- Embaixador Estudantil Google 2026
 - 3x participante do Coday (evento semestral da Residência Tecnológica UCB
   em parceria com Porto Digital, com apresentação dos melhores projetos)
 - 3º lugar entre 33 equipes com o SEI+, avaliado por banca com Ministério
