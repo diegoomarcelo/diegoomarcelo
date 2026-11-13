@@ -72,6 +72,5 @@ Liderei equipes de até 10 pessoas na Residência Tecnológica UCB/Porto Digital
 ### Estatísticas
 
 <p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=diegoomarcelo&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=transparent&include_all_commits=true" alt="GitHub Stats">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoomarcelo&layout=compact&hide_border=true&theme=transparent&langs_count=6&exclude_repo=Projeto_Promon,Site_Feira_Dos_Importados_Tag,Projeto_AlistamentoMilitar,calculadora,TJDFT" alt="Top Languages">
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=diegoomarcelo&hide_border=true&theme=transparent&locale=pt_BR" alt="Contribuições no GitHub">
 </p>
